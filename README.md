@@ -1,4 +1,4 @@
-# xUtils V2.6.14
+# xUtils（eclipse） V2.6.14
 
 ## xUtils简介
 * xUtils 包含了很多实用的android工具。
